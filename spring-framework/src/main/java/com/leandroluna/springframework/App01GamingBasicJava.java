@@ -5,7 +5,7 @@ import com.leandroluna.springframework.game.MarioGame;
 import com.leandroluna.springframework.game.PacmanGame;
 import com.leandroluna.springframework.game.SuperContraGame;
 
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
     public static void main(String[] args) {
         
         // var game = new MarioGame();
